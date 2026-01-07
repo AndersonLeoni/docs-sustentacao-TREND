@@ -24,7 +24,7 @@ Lista oficial de softwares homologados para o time de APOIO e SUSTENÇÃO e os r
     ## Procedimento
     1. **Abertura de chamado:**  
     O colaborador interessado deve abrir um chamado solicitando o acesso ao banco de dados, informando a justificativa e o ambiente desejado.
-    
+
     2. **Notificação da liderança:**  
     Após a abertura do chamado, o **supervisor ou coordenador responsável** deve ser informado sobre a solicitação.
 
@@ -33,11 +33,6 @@ Lista oficial de softwares homologados para o time de APOIO e SUSTENÇÃO e os r
 
     4. **Autorização e liberação:**  
     A equipe de **Segurança da Informação** avaliará o pedido e, uma vez aprovado, realizará a liberação ou dará retorno com orientações adicionais.
-
-
-
-
-
 
 ## Política de Instalação
 
