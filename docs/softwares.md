@@ -18,23 +18,25 @@ Lista oficial de softwares homologados para o time de APOIO e SUSTENÇÃO e os r
 | **DBeaver** | Portal de Atendimento > Atendimento T.I > Programas T.I > Instalar programas |
 | **Google Chrome** | Portal de Atendimento > Atendimento T.I > Programas T.I > Instalar programas |
 
-## !!! warning "Processo de Liberação de Acesso ao Banco de Dados"
+ !!! warning "Processo de Liberação de Acesso ao Banco de Dados"    
+    Em conformidade com a **Lei Geral de Proteção de Dados (LGPD)** e as **políticas internas de Segurança da Informação**, o acesso ao banco de dados é controlado e autorizado apenas mediante aprovação formal.
+
+    ## Procedimento
+    1. **Abertura de chamado:**  
+    O colaborador interessado deve abrir um chamado solicitando o acesso ao banco de dados, informando a justificativa e o ambiente desejado.
     
-Em conformidade com a **Lei Geral de Proteção de Dados (LGPD)** e as **políticas internas de Segurança da Informação**, o acesso ao banco de dados é controlado e autorizado apenas mediante aprovação formal.
+    2. **Notificação da liderança:**  
+    Após a abertura do chamado, o **supervisor ou coordenador responsável** deve ser informado sobre a solicitação.
 
-## Procedimento
+    3. **Validação de Segurança:**  
+    O **coordenador/supervisor** encaminhará um e‑mail ao **Coordenador de Segurança da Informação**, formalizando a solicitação de liberação de acesso.
 
-1. **Abertura de chamado:**  
-   O colaborador interessado deve abrir um chamado solicitando o acesso ao banco de dados, informando a justificativa e o ambiente desejado.
+    4. **Autorização e liberação:**  
+    A equipe de **Segurança da Informação** avaliará o pedido e, uma vez aprovado, realizará a liberação ou dará retorno com orientações adicionais.
 
-2. **Notificação da liderança:**  
-   Após a abertura do chamado, o **supervisor ou coordenador responsável** deve ser informado sobre a solicitação.
 
-3. **Validação de Segurança:**  
-   O **coordenador/supervisor** encaminhará um e‑mail ao **Coordenador de Segurança da Informação**, formalizando a solicitação de liberação de acesso.
 
-4. **Autorização e liberação:**  
-   A equipe de **Segurança da Informação** avaliará o pedido e, uma vez aprovado, realizará a liberação ou dará retorno com orientações adicionais.
+
 
 
 ## Política de Instalação
