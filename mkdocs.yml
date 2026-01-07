@@ -30,3 +30,15 @@ markdown_extensions:
   - pymdownx.superfences
 plugins:
   - search
+  # ... (mantenha o que já tem em cima)
+
+# Informação do Rodapé
+copyright: Feito por Anderson Leoni
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AndersonLeoni
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/andersonleoni/
