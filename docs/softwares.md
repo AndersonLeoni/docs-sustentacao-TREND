@@ -2,8 +2,8 @@
 
 Lista oficial de softwares homologados para o time de APOIO e SUSTENÇÃO e os respectivos caminhos para solicitação de acesso ou instalação.
 
-!!! tip "Dica"
-    Sempre verifique se você já possui a licença associada ao seu usuário no AD antes de abrir o chamado.
+!!! tip "Portal de atendimento"
+    Os chamados abaixo devem ser abertos dentro do nosso [portal de atendimento](https://cvccorp.atlassian.net/servicedesk/customer/portals) (JIRA)
 
 ## Tabela de Softwares
 
