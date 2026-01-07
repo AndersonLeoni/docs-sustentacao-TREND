@@ -35,9 +35,9 @@ Lista oficial de softwares homologados para o time de APOIO e SUSTENÇÃO e os r
     4. **Autorização e liberação:**
        A equipe de **Segurança da Informação** avaliará o pedido e, uma vez aprovado, realizará a liberação ou dará retorno com orientações adicionais.
 
-## Política de Instalação
 
-!!! warning "Atenção"
+
+!!! warning "Política de Instalação"
     A instalação de softwares não homologados (Shadow IT) é estritamente proibida e passível de advertência conforme política de Segurança da Informação.
+    Se precisar de um software que não está na lista acima, abra um chamado de **"Nova Homologação de Software"**.
 
-Se precisar de um software que não está na lista acima, abra um chamado de **"Nova Homologação de Software"**.
